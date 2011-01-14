@@ -1,0 +1,9 @@
+<classpath>
+  <classpathentry kind="output" path="build/classes/main"/>
+  <classpathentry output="build/classes/main" kind="src" path="src"/>
+  <classpathentry output="build/classes/test" kind="src" path="tests"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+  <classpathentry sourcepath="C:/Users/kousen/.gradle/cache/junit/junit/sources/junit-4.8.1-sources.jar" kind="lib" path="C:/Users/kousen/.gradle/cache/junit/junit/jars/junit-4.8.1.jar" exported="true"/>
+  <classpathentry sourcepath="C:/Users/kousen/.gradle/cache/org.codehaus.groovy/groovy-all/sources/groovy-all-1.7.5-sources.jar" kind="lib" path="C:/Users/kousen/.gradle/cache/org.codehaus.groovy/groovy-all/jars/groovy-all-1.7.5.jar" exported="true"/>
+  <classpathentry sourcepath="C:/Users/kousen/.gradle/cache/org.spockframework/spock-core/sources/spock-core-0.4-groovy-1.7-sources.jar" kind="lib" path="C:/Users/kousen/.gradle/cache/org.spockframework/spock-core/jars/spock-core-0.4-groovy-1.7.jar" exported="true"/>
+</classpath>

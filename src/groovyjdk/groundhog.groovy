@@ -2,9 +2,9 @@ package groovyjdk
 
 println 'Groundhog sees shadow --> 6 more weeks of Winter'
 def c = Calendar.instance
-c.set 2010, Calendar.FEBRUARY, 2
+c.set 2011, Calendar.FEBRUARY, 2
 def groundHogDay = c.time
-c.set 2010, Calendar.MARCH, 21
+c.set 2011, Calendar.MARCH, 20
 def firstDayOfSpring = c.time
 def days = firstDayOfSpring - groundHogDay
 assert days == (firstDayOfSpring..groundHogDay).size() - 1
